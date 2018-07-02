@@ -82,7 +82,7 @@
   left:0px;
   top:0px;
   width:1403px;
-  height:1053px;
+  height:1150px;
   background:inherit;
   background-color:rgba(240, 242, 245, 1);
   border:none;
@@ -97,7 +97,7 @@
   left:116px;
   top:129px;
   width:1403px;
-  height:1053px;
+  height:1150px;
 }
 #u805_text {
   border-width:0px;
@@ -285,7 +285,7 @@
   left:0px;
   top:0px;
   width:208px;
-  height:828px;
+  height:898px;
   background:inherit;
   background-color:rgba(255, 255, 255, 1);
   box-sizing:border-box;
@@ -316,7 +316,7 @@
   left:200px;
   top:216px;
   width:208px;
-  height:828px;
+  height:898px;
   font-family:'Microsoft YaHei';
   font-weight:400;
   font-style:normal;
@@ -741,7 +741,7 @@
   border-width:0px;
   position:absolute;
   left:868px;
-  top:1103px;
+  top:1191px;
   width:69px;
   height:21px;
   font-family:'Microsoft YaHei';
@@ -784,7 +784,7 @@
   border-width:0px;
   position:absolute;
   left:937px;
-  top:1103px;
+  top:1191px;
   width:69px;
   height:21px;
   font-family:'Microsoft YaHei';
@@ -827,7 +827,7 @@
   border-width:0px;
   position:absolute;
   left:1006px;
-  top:1103px;
+  top:1191px;
   width:29px;
   height:21px;
   font-family:'Microsoft YaHei';
@@ -886,7 +886,7 @@
   border-width:0px;
   position:absolute;
   left:893px;
-  top:1124px;
+  top:1212px;
   width:208px;
   height:29px;
   font-family:'ArialMT', 'Arial';
@@ -916,7 +916,7 @@
   border-width:0px;
   position:absolute;
   left:881px;
-  top:1137px;
+  top:1225px;
   width:12px;
   height:12px;
   font-family:'Microsoft YaHei';
@@ -965,7 +965,7 @@
   border-width:0px;
   position:absolute;
   left:815px;
-  top:1124px;
+  top:1212px;
   width:62px;
   height:29px;
   font-family:'Microsoft YaHei';
@@ -1003,7 +1003,7 @@
   border-width:0px;
   position:absolute;
   left:928px;
-  top:1055px;
+  top:1143px;
   width:48px;
   height:48px;
   opacity:0;
@@ -1038,7 +1038,7 @@
   border-width:0px;
   position:absolute;
   left:945px;
-  top:1153px;
+  top:1241px;
   width:16px;
   height:16px;
   opacity:0;
@@ -1566,7 +1566,7 @@
   left:0px;
   top:0px;
   width:1072px;
-  height:783px;
+  height:853px;
   background:inherit;
   background-color:rgba(255, 255, 255, 1);
   border:none;
@@ -1581,7 +1581,7 @@
   left:425px;
   top:261px;
   width:1072px;
-  height:783px;
+  height:853px;
 }
 #u860_text {
   border-width:0px;
@@ -12918,8 +12918,8 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:222px;
-  height:18px;
+  width:238px;
+  height:108px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
   border:none;
@@ -12936,8 +12936,8 @@
   position:absolute;
   left:605px;
   top:957px;
-  width:222px;
-  height:18px;
+  width:238px;
+  height:108px;
   font-family:'PingFangSC-Regular', 'PingFang SC';
   font-weight:400;
   font-style:normal;
@@ -12947,43 +12947,6 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:222px;
-  white-space:nowrap;
-}
-#u1417_div {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:270px;
-  height:18px;
-  background:inherit;
-  background-color:rgba(255, 255, 255, 0);
-  border:none;
-  border-radius:0px;
-  -moz-box-shadow:none;
-  -webkit-box-shadow:none;
-  box-shadow:none;
-  font-family:'PingFangSC-Regular', 'PingFang SC';
-  font-weight:400;
-  font-style:normal;
-}
-#u1417 {
-  border-width:0px;
-  position:absolute;
-  left:605px;
-  top:991px;
-  width:270px;
-  height:18px;
-  font-family:'PingFangSC-Regular', 'PingFang SC';
-  font-weight:400;
-  font-style:normal;
-}
-#u1417_text {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:270px;
+  width:238px;
   white-space:nowrap;
 }
